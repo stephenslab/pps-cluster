@@ -21,3 +21,15 @@ optimize peformance.
 
 + Cleaning up old or unused files to (1) improve file system
 performance, and (2) make space available for others to use.
+
+### Why "simple"?
+
++ JZ, JB and PC don't have much time.
+
+• The PPS cluster is getting old.
+
++ The long-term future of the PPS cluster is unclear.
+
++ Still, the PPS cluster remains a valuable computing resource, so we
+should make effective use of it. We are taking simple steps to improve
+the computing environment as much as possible within our constraints.
