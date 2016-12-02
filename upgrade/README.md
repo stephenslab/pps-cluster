@@ -1,10 +1,10 @@
-# PPS cluster "Simple Revitalization Plan"
+# PPS cluster Simple Revitalization Plan
  
 This document describes the "simple revitalization plan" developed by
 John Zekos (JZ), John Blischak (JB) and Peter Carbonetto (PC) for
 upgrading the PPS cluster (`pps-gateway.uchicago.edu`). So far, we
-have sketched out Phase 1 of this plan, and we are working through
-Phase 1.
+have sketched out [Phase 1 of this plan](phase-1.md), and we are
+currently working through this phase.
 
 ### What does "revitalization" mean?
 

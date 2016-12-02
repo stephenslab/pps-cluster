@@ -6,5 +6,5 @@ Linux 7.3](http://rhn.redhat.com/errata/RHSA-2016-2574.html)
 (the [Simple Revitalization Plan](upgrade/README.md)).
 
 For lots more info on the PPS cluster, see the
-[Wiki](https://sites.google.com/site/hapgewiki). (Although note that
-much of this info is out-of-date.)
+[Wiki](https://sites.google.com/site/hapgewiki), although bear in mind
+that much of this info is out-of-date.
